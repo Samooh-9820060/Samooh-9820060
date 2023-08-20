@@ -32,4 +32,5 @@ I'm a Developer, Enthusiast, and Lifelong Learner in the realm of coding and dev
 
 <img align="left" alt="Samooh-9820060's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Samooh-9820060&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samooh-9820060&layout=compact&theme=radical&count_private=false)](https://github.com/Samooh-9820060/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samooh-9820060&theme=radical&count_private=true&langs_count=10)](https://github.com/Samooh-9820060/github-readme-stats)
+
