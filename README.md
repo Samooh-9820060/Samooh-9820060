@@ -17,8 +17,8 @@ I'm a Developer, Enthusiast, and Lifelong Learner in the realm of coding and dev
 
 ### Connect with me:
 
-[<img align="left" alt="Samooh | Telegram" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" />](https://t.me/Samooh_Moosa)
-[<img align="left" alt="Samooh | Facebook" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" />](https://facebook.com/samooh982)
+[<img align="left" alt="Samooh | Telegram" width="22px" src="https://raw.githubusercontent.com/Samooh-9820060/Samooh-9820060/main/tg.svg" />](https://t.me/Samooh_Moosa)
+[<img align="left" alt="Samooh | Facebook" width="22px" src="https://raw.githubusercontent.com/Samooh-9820060/Samooh-9820060/main/fb.svg" />](https://facebook.com/samooh982)
 
 <br />
 
