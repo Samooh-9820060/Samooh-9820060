@@ -9,7 +9,7 @@
 
 I'm a Developer, Enthusiast, and Lifelong Learner in the realm of coding and development.
 
-- 🔭 I’m currently working on: ![Latest Commit](https://badgen.net/github/last-commit/Samooh-9820060/)
+- 🔭 I’m currently working on: [TechnoMaths on Google Play Store](https://play.google.com/store/apps/details?id=com.techNova.technomaths.technomaths)
 - 🌱 I’m currently learning: Android Development
 - 📫 How to reach me: 
    - 📧 Email: [samoohmoosa.j@gmail.com](mailto:samoohmoosa.j@gmail.com)
@@ -17,8 +17,9 @@ I'm a Developer, Enthusiast, and Lifelong Learner in the realm of coding and dev
 
 ### Connect with me:
 
-[<img align="left" alt="Samooh | Telegram" width="22px" src="https://raw.githubusercontent.com/anuraghazra/github-readme-icons/main/icons/telegram.svg" />](https://t.me/Samooh_Moosa)
-[<img align="left" alt="Samooh | Facebook" width="22px" src="https://raw.githubusercontent.com/anuraghazra/github-readme-icons/main/icons/facebook.svg" />](https://facebook.com/samooh982)
+[<img align="left" alt="Samooh | Telegram" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" />](https://t.me/Samooh_Moosa)
+[<img align="left" alt="Samooh | Facebook" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" />](https://facebook.com/samooh982)
+
 <br />
 
 ### Languages and Tools:
