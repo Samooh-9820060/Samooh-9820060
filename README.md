@@ -7,11 +7,11 @@
 <!--[![Website](https://img.shields.io/website?label=yourwebsite.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://yourwebsite.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourTwitterHandle?color=%231DA1F2&label=Follow%20%40yourTwitterHandle&style=for-the-badge&logo=twitter)](https://twitter.com/yourTwitterHandle)-->
 
-Welcome to my GitHub profile! I am passionate about coding and always eager to learn new things.
+Welcome to my GitHub profile! I am passionate about coding and always eager to learn new stuff.
 
-- 🧠 **Learning**: Currently delving deeper into Android Development.
+- 🧠 **Learning**: Currently learning Android Development.
 - 🚀 **Projects**:
-   - [TechnoMaths](https://play.google.com/store/apps/details?id=com.techNova.technomaths.technomaths) - A mathematics app available on Google Play Store.
+   - [TechnoMaths](https://play.google.com/store/apps/details?id=com.techNova.technomaths.technomaths) - A maths app available on Google Play Store.
    - [Ultimate Tic Tac Toe](https://play.google.com/store/apps/details?id=com.techNova.ultimateTicTacToe.ultimate_tic_tac_toe) - A strategic and intriguing online multiplayer variant of the classic Tic Tac Toe game.
    - 📫 How to reach me: 
    - 📧 Email: [samoohmoosa.j@gmail.com](mailto:samoohmoosa.j@gmail.com)
