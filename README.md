@@ -12,8 +12,12 @@ Welcome to my GitHub profile! I am passionate about coding and always eager to l
 - 🧠 **Learning**: Currently learning Android Development.
 - 🚀 **Projects**:
    - [TechnoMaths](https://play.google.com/store/apps/details?id=com.techNova.technomaths.technomaths) - A maths app available on Google Play Store.
-   - [Ultimate Tic Tac Toe](https://play.google.com/store/apps/details?id=com.techNova.ultimateTicTacToe.ultimate_tic_tac_toe) - A strategic and intriguing online multiplayer variant of the classic Tic Tac Toe game.
-   - 📫 How to reach me: 
+   - [Ultimate Tic Tac Toe](https://play.google.com/store/apps/details?id=com.techNova.ultimateTicTacToe.ultimate_tic_tac_toe) - A strategic and intriguing online multiplayer variant of the classic Tic Tac Toe.
+   - [GeoGenius](https://play.google.com/store/apps/details?id=com.techNova.GeoGenius.geogenius) - The ultimate geography quiz app, testing knowledge of countries, flags, and capitals.
+   - [Score Manager](https://play.google.com/store/apps/details?id=com.techNova.score_manager.score_manager) - Manage and track scores for various games and tournaments.
+   - [ExpnZ](https://play.google.com/store/apps/details?id=com.techNova.ExpnZ.expnz) - Your ultimate solution for streamlined and efficient money management.
+ 
+- 📫 **How to reach me**: 
    - 📧 Email: [samoohmoosa.j@gmail.com](mailto:samoohmoosa.j@gmail.com)
    - 📞 Phone: +960 9820060
 
