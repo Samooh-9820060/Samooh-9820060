@@ -1,8 +1,5 @@
 ### Hi there, I'm Samooh! 👋
-
-<!--
-**Samooh-9820060/Samooh-9820060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+![Profile View Count](https://komarev.com/ghpvc/?username=Samooh-9820060&label=Profile%20views&color=0e75b6&style=flat)
 
 <!--[![Website](https://img.shields.io/website?label=yourwebsite.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://yourwebsite.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourTwitterHandle?color=%231DA1F2&label=Follow%20%40yourTwitterHandle&style=for-the-badge&logo=twitter)](https://twitter.com/yourTwitterHandle)-->
@@ -42,8 +39,8 @@ Welcome to my GitHub profile! I am passionate about coding and always eager to l
 
 ---
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Samooh-9820060&theme=radical)](https://git.io/streak-stats)
+
 <img align="left" alt="Samooh-9820060's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Samooh-9820060&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samooh-9820060&theme=radical&count_private=true&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs?username=Samooh-9820060&show_icons=true&theme=radical&count_private=true&langs_count=10&layout=compact)
-
-
