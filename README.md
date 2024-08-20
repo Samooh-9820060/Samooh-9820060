@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I am passionate about coding and always eager to l
    - [Score Manager](https://play.google.com/store/apps/details?id=com.techNova.score_manager.score_manager) - Manage and track scores for various games and tournaments.
    - [ExpnZ](https://play.google.com/store/apps/details?id=com.techNova.ExpnZ.expnz) - Your ultimate solution for streamlined and efficient money management.
  
-- 📫 **How to reach me**: 
+- 📫 **Reach me at:**: 
    - 📧 Email: [samoohmoosa.j@gmail.com](mailto:samoohmoosa.j@gmail.com)
    - 📞 Phone: +960 9820060
 
