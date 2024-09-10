@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I am passionate about coding and always eager to l
    - [GeoGenius](https://play.google.com/store/apps/details?id=com.techNova.GeoGenius.geogenius) - The ultimate geography quiz app, testing knowledge of countries, flags, and capitals.
    - [Score Manager](https://play.google.com/store/apps/details?id=com.techNova.score_manager.score_manager) - Manage and track scores for various games and tournaments.
    - [ExpnZ](https://play.google.com/store/apps/details?id=com.techNova.ExpnZ.expnz) - Your ultimate solution for streamlined and efficient money management.
+   - [Ultimate Star Battle](https://play.google.com/store/apps/details?id=com.techNova.ultimate_star_battle) - Place Stars on a grid - Strategize and outsmart in this unique puzzle challenge!
  
 - 📫 **Reach me at:**: 
    - 📧 Email: [samoohmoosa.j@gmail.com](mailto:samoohmoosa.j@gmail.com)
