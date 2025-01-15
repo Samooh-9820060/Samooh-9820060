@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I am passionate about coding and always eager to l
 <br />
 
 ---
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Samooh-9820060&theme=radical)](https://git.io/streak-stats)
 <img align="left" alt="Samooh-9820060's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Samooh-9820060&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samooh-9820060&theme=radical&count_private=true&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs?username=Samooh-9820060&show_icons=true&theme=radical&count_private=true&langs_count=10&layout=compact)
